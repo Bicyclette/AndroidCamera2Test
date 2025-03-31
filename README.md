@@ -12,7 +12,7 @@ Voici les métadonnées affichées:
   <li>Le mode de scène (si activé)</li>
 </ul>
 
-Test réalisé sur Google Pixel 8 via l'émulateur d'Android Studio.
+Test réalisé sur un Google Pixel 8 via l'émulateur d'Android Studio.
 
 ## Aperçu
 
